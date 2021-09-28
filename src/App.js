@@ -1,7 +1,7 @@
-import { useState } from "react";
+// import { useState } from "react";
 import { BrowserRouter, Route, Link } from "react-router-dom";
 import "./App.scss";
-import { Menu } from "@material-ui/icons/";
+// import { Menu } from "@material-ui/icons/";
 import SectionSkill from "./components/SectionSkill";
 import SectionIntruduce from "./components/SectionIntruduce";
 
