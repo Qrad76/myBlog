@@ -27,6 +27,7 @@ export default function SectionSkill() {
               <a
                 href="https://gallant-snyder-272144.netlify.app"
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 스타벅스 클론 페이지
               </a>
